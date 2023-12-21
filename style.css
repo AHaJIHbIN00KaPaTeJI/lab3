@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+h1 {
+  align-self: center;  
+  align-content: center;
+  background-color: rgb(60,36,76);
+  color: #deb3ff;
+  }
+p {
+  background-color: rgb(60,36,76);
+  color: #deb3ff;
+  font-size: larger;
+  }
+label {
+  color: white;
+}
